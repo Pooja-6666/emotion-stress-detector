@@ -67,10 +67,3 @@ See requirements.txt for exact versions.
 📱 Deploy to Streamlit Cloud or Hugging Face Spaces
 
 🧘 Integration with relaxation or meditation suggestions
-
-
-**🧑‍💻 Author**
-Madhulika Praveen
-Lahari BK
-BMS College of Engineering
-AI & ML Department
